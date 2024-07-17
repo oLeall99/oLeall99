@@ -1,5 +1,4 @@
-## Hi there 👋
-# Sou Arthur Leal Mussio
+## Arthur Leal Mussio
 FEI - Ciência da Computação - 3º Semestre
 
 <!--
