@@ -1,4 +1,6 @@
 ## Hi there 👋
+# Sou Arthur Leal Mussio
+FEI - Ciência da Computação - 3º Semestre
 
 <!--
 **oLeall99/oLeall99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
